@@ -1,2 +1,2 @@
-# Projeto-Manoel-Ign-cio
+# Projeto Manoel Ign
 Site da PEI Manoel Ignácio criada por mim mesmo (um aluno) para o projeto de segurança na internet.
